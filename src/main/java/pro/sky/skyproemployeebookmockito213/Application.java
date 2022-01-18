@@ -11,3 +11,7 @@ public class Application {
     }
 
 }
+/*
+http://localhost:8080/employee/add?firstName=Sergei&lastName=Petrov&department=1&salary=10000
+http://localhost:8080/department/max-salary?departmentId=1
+ */
